@@ -19,9 +19,8 @@ Chaque texte est une pièce de moi, offerte sans fard ni masque.
 12. [[L’oubli - cadeau ou malédiction ?]]
 13. [[L’amour d’écrire]]
 14. [[Le temps des absents]]
+15. [[Je voudrais tomber amoureux.]]
 
 ---
 
-Chaque mot écrit ici est une victoire sur mes peurs,  
-une trace contre l'oubli,  
-un serment silencieux de continuer, encore et toujours.
+Chaque mot écrit ici est une victoire sur mes peurs, une trace contre l'oubli, un serment silencieux de continuer, encore et toujours.
