@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# Définition des variables
+title="Le Dernier Miroir"
+author="Pordorian"
+output="Le_Dernier_Miroir.epub"
+
+# Trier les fichiers par numéro de chapitre
+sorted_files=$(ls | grep -E "^Chapitre [0-13]+" | sort -V)
+
+# Vérifier si des fichiers sont trouvés
+if [ -z "$sorted_files" ]; then
+    echo "Aucun fichier Markdown trouvé. Assurez-vous qu'ils sont nommés correctement."
+    exit 1
+fi
+
+# Générer l'EPUB avec Pandoc
+pandoc \
+    --toc \
+    --metadata title="$title" \
+    --metadata author="$author" \
+    -o "$output" \
+    $sorted_files
+
+echo "Conversion terminée : $output"
+

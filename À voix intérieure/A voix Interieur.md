@@ -1,0 +1,4 @@
+[[Amour]]
+[[Haine]]
+[[Joie]]
+[[Tristesse]]
