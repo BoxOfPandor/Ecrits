@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eloquence/L'antre de mes mots.md",
+                "file": "Mon fardeau/Tome 4 - La chute.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L'antre de mes mots"
+              "title": "Tome 4 - La chute"
             }
           }
         ]
@@ -176,8 +176,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74670334b6aca554",
+  "active": "142fecbe43b721a4",
   "lastOpenFiles": [
+    "Mon fardeau/Tome 3 - La trahison.md",
+    "Mon fardeau/Tome 2 - La relation.md",
+    "Mon fardeau/Tome 1 - Le début.md",
+    "Mon fardeau/Tome 5 - L’après.md",
+    "Mon fardeau/Tome 4 - La chute.md",
+    "Eloquence/L'antre de mes mots.md",
+    "Mon fardeau",
+    "Eloquence/Écriture Et Identité",
+    "Eloquence/Untitled.md",
+    "Eloquence/Existence Et Temps",
+    "Eloquence/Amour Perdu",
     "Eloquence/Et si les émotions avaient une chambre à elles ?.md",
     "Eloquence/L’amour d’écrire.md",
     "Eloquence/L’envie d’écrire.md",
@@ -193,7 +204,6 @@
     "Eloquence/L'homme aux deux âmes.md",
     "Eloquence/L’amour et la haine, faces d’une seule et unique pièce.md",
     "Eloquence/Entre deux battements.md",
-    "Eloquence/L'antre de mes mots - Full.md",
-    "Eloquence/L'antre de mes mots.md"
+    "Eloquence/L'antre de mes mots - Full.md"
   ]
 }
