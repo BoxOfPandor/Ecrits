@@ -1,3 +1,5 @@
+#ExistenceEtTemps
+
 Pourquoi oublie-t-on certains instants… et pas d’autres ?  
 Pourquoi notre mémoire décide-t-elle de ranger certains souvenirs tout en haut d’une étagère, bien hors de portée, pendant qu’elle encadre d’autres scènes comme des tableaux qu’on ne peut plus décrocher ?
 

@@ -1,3 +1,5 @@
+#AmourPerdu
+
 Il y a ceux qui vivent d'instinct, et il y a ceux qui vivent en observant. Moi, j'ai toujours été dans la deuxième catégorie. Spectateur silencieux du monde, étranger aux codes sociaux, simulant la compréhension pour ne pas être trop à part. Je me suis toujours senti comme un humain parmi les humains, mais sans vraiment y appartenir. Une âme dans un monde où les souvenirs tissent des liens, et moi, les miens s'effilochaient dans le silence.
 
 Dans ma poitrine, deux forces se battent. Mon cerveau, calculateur, froid, méthodique. Il analyse, dissèque, prévoit. Il me fait croire à des émotions, les recrée pour m'avertir, pour me protéger. Il m'impose l'anxiété, la panique, la peur de mal faire. Et mon cœur, lui... bayonné, retenu, toujours dans l'ombre. Mais il a trouvé une faille. Une seule. L'écriture. À travers mes mots, mon cœur respire. Il vit. Il hurle parfois, doucement d'autres fois, mais toujours avec sincérité. Car c'est dans l'écriture que j'existe.

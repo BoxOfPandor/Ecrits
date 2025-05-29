@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "885258e681c8568e",
+        "id": "ff463c35a77fa9e4",
         "type": "tabs",
         "children": [
           {
-            "id": "6c0a62c4b51ae733",
+            "id": "142fecbe43b721a4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Eloquence/Mes 20 ans Bis.md",
-                "bFile": "Eloquence/Mes 20 ans Bis.md",
-                "aRef": ""
+                "file": "Eloquence/L'antre de mes mots.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Mes 20 ans Bis"
+              "icon": "lucide-file",
+              "title": "L'antre de mes mots"
             }
           }
         ]
@@ -176,14 +176,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c0a62c4b51ae733",
+  "active": "74670334b6aca554",
   "lastOpenFiles": [
-    "Eloquence/Mes 20 ans Bis.md",
-    "Eloquence/Mes 20 ans.md",
+    "Eloquence/Et si les émotions avaient une chambre à elles ?.md",
     "Eloquence/L’amour d’écrire.md",
     "Eloquence/L’envie d’écrire.md",
-    "Eloquence/L'antre de mes mots.md",
+    "Eloquence/Mes 20 ans Bis.md",
+    "Eloquence/Mes 20 ans.md",
+    "Eloquence/Le Vide.md",
+    "Eloquence/Le temps des absents.md",
+    "Eloquence/L’oubli - cadeau ou malédiction ?.md",
+    "Eloquence/Créer pour ne pas disparaître.md",
     "Eloquence/Je voudrais tomber amoureux..md",
-    "Eloquence/Entre deux battements.md"
+    "Eloquence/L’envie.md",
+    "Eloquence/Peut-on vraiment guérir d'un amour, ou apprend-on juste à vivre avec ses cicatrices ?.md",
+    "Eloquence/L'homme aux deux âmes.md",
+    "Eloquence/L’amour et la haine, faces d’une seule et unique pièce.md",
+    "Eloquence/Entre deux battements.md",
+    "Eloquence/L'antre de mes mots - Full.md",
+    "Eloquence/L'antre de mes mots.md"
   ]
 }

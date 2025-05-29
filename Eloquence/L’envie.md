@@ -1,3 +1,5 @@
+#AmourPerdu
+
 J’ai toujours voulu goûter à ce fruit que tant de gens ont déjà croqué, parfois même sans s’en rendre compte. Ce fruit que certains découvrent tôt, d’autres plus tard, et que moi… je cherche encore. J’en ai entendu parler, j’en ai vu les effets, les promesses, les échecs. Ce fruit-là, on l’appelle l’amour.
 
 Il a le goût du poison et du miel à la fois. Un poison doux, délicat, qui s’infiltre lentement, jusqu’à faire tomber dépendant celui qui y a goûté. Un poison auquel on s’attache, qu’on désire, qu’on redoute parfois, mais qu’on ne peut ignorer. Je l’envie. J’envie ceux qui l’ont trouvé, ceux qui l’ont vécu ne serait-ce qu’un instant. J’envie même ceux qui l’ont perdu, parce qu’au moins… ils l’ont connu.

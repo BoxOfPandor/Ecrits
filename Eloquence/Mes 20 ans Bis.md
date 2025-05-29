@@ -1,3 +1,5 @@
+#ÉcritureEtIdentité
+
 Me voilà. Vingt ans.  
 Deux décennies à marcher, à trébucher, à tomber, à me relever. Deux décennies à chercher, sans toujours savoir quoi. Une direction ? Un sens ? Un souffle ? Un ancrage ? Je n’ai toujours pas de carte, pas de boussole. Seulement cette certitude fragile : je ne peux plus reculer.
 

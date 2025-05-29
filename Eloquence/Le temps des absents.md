@@ -1,3 +1,5 @@
+#ExistenceEtTemps
+
 Il y a des phrases qu’on entend une fois, et qu’on oublie. Et puis il y a celles qui restent. Celles qui résonnent. Victor Hugo, lui, a frappé fort : _« On passe la moitié de sa vie à attendre ceux qu’on aimerait, et l’autre à quitter ceux qu’on aime. »_
 
 Cette phrase… elle n’est pas juste belle. Elle est vraie. Elle me hante, parce qu’elle résume quelque chose de profondément humain. Ce besoin de lien, cette quête d’un “nous”, qui s’épuise parfois avant même d’avoir commencé.

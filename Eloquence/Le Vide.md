@@ -1,3 +1,5 @@
+#ExistenceEtTemps
+
 Le vide. Un mot simple. Quatre lettres, un gouffre.
 
 On pourrait croire qu’il est facile à définir. On pourrait l’enfermer dans une formule, lui donner une mesure, un poids, une absence. On pourrait l’étiqueter comme une chose scientifique, rationnelle, logique. Mais ce serait trahir sa véritable nature.

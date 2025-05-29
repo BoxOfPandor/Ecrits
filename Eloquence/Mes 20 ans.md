@@ -1,3 +1,5 @@
+#ÉcritureEtIdentité
+
 Me voilà. Vingt ans.  
 Deux décennies à marcher, à tomber, à recommencer, sans toujours savoir où je vais, mais en sachant que je ne peux plus reculer. Moi qui, hier encore, pensais avoir dix-huit ans. Moi qui pensais pouvoir figer le temps en fermant les yeux. Mais le temps ne m’a pas attendu. Et comme j’aime à le dire :  
 **"Le temps n’a pas le temps, de mesurer le temps qui passe."**

@@ -1,3 +1,5 @@
+#ÉcritureEtIdentité
+
 Je ne me prétends pas écrivain. Et je ne pense pas un jour pouvoir dire “je suis auteur” avec la certitude que cela implique. Non pas parce que je ne le mérite pas, mais parce que la plume que je tiens entre mes doigts me semble encore trembler. Elle est pleine de fautes, de ratures, de doutes. Mais elle est aussi pleine de moi. Et malgré tout, j’écris.
 
 Je ne sais pas exactement d’où me vient cette envie. Elle n’est pas née d’un grand choc, ni d’une révélation soudaine. C’est une habitude qui s’est glissée dans mes insomnies, dans mes trajets trop longs, dans mes silences. Écrire est devenu un réflexe. Un besoin. Je ne saurais dire pourquoi je m’y accroche, mais je sais que si je ne le fais pas, quelque chose manque. Quelque chose en moi se tait, alors qu’il aurait dû crier.

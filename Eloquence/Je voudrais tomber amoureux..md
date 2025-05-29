@@ -1,3 +1,5 @@
+#AmourPerdu
+
 Je voudrais que quelqu’un entre dans ma vie, sans prévenir, sans frapper, sans demander la permission. Je voudrais qu’un regard suffise à tout faire basculer. Qu’une voix, un sourire, une main tendue viennent bousculer mes silences et mes certitudes. Je voudrais que cette personne entre comme une tempête et renverse tout. Qu’elle chamboule mes nuits, mes pensées, mes habitudes. Qu’elle repeigne mes murs, qu’elle mette du désordre dans mes phrases, qu’elle allume des lumières là où, jusqu’ici, il n’y avait que des coins sombres.
 
 Je voudrais tomber amoureux, pas comme on glisse dans une histoire, mais comme on tombe d’une falaise, les bras ouverts, sans savoir si quelqu’un en bas nous attend. Je voudrais sentir mon cœur battre trop vite, mes mains trembler un peu, mes mots s’emmêler. Je voudrais retrouver cette sensation de vertige, celle qui nous rend fous, qui nous rend vivants. Je voudrais aimer sans prudence, sans calcul, sans me dire "et si ça ne marche pas ?". Juste aimer, et me laisser aimer.

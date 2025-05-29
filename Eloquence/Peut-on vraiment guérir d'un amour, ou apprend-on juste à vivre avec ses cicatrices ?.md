@@ -1,3 +1,5 @@
+#AmourPerdu
+
 Il y a des blessures que l’on cache sous des sourires, comme si rire pouvait panser ce que même le temps n’ose pas effleurer. Il y a des cicatrices que l’on maquille de mots, d’excuses, de silences. Mais au fond, moi, je me demande : **guérit-on vraiment d’un amour perdu ? Ou apprend-on simplement à porter ses ruines en faisant semblant de ne plus les sentir ?**
 
 Je crois qu’un amour, le vrai, celui qui a vibré jusque dans la moelle de l’âme, ne disparaît jamais vraiment. On apprend juste à cohabiter avec son absence, comme on apprend à marcher avec une jambe en moins, comme on apprend à sourire alors que quelque chose en nous est resté bloqué sur une page qu'on n'a jamais su tourner.

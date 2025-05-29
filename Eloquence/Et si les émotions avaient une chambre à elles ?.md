@@ -1,3 +1,5 @@
+#MondeIntérieur
+
 Je vis dans une maison invisible. Pas une maison en briques ou en béton, non. Une maison intérieure. Celle que personne ne voit, mais que je visite tous les jours. Une maison aux couloirs sinueux, faite de souvenirs et de ressentis. Et dans cette maison, chaque émotion a sa chambre. Fermée ou grande ouverte, bien rangée ou sens dessus dessous. Mais elles sont là, toujours.
 
 **Solitude** n’a jamais eu besoin d’invitation. Elle a sa clé. Elle se promène dans toutes les pièces, parfois en silence, parfois avec des murmures que je suis seul à entendre. Elle s’assoit à table avec moi, dort à mes côtés, me suit dans la rue. Mais je l’ai apprivoisée, un peu. Parfois, elle me fait du bien. Elle m’apprend à me parler à moi-même. Elle me laisse de l’espace, pour réfléchir… pour écrire.

@@ -1,3 +1,5 @@
+#AmourPerdu
+
 Depuis que je suis en âge de comprendre, on m’a appris que l’amour était la plus belle chose que l'on pouvait ressentir. On me l’a vendu comme une lumière dans la nuit, une promesse de chaleur contre le froid du monde, une main tendue quand les jambes lâchent. On me l'a raconté à travers les films, les livres, les regards échangés dans les rues… On m'a promis que l'amour sauverait, réparerait, guérirait.
 
 Mais jamais personne ne m’a averti que l’amour traînait derrière lui une ombre aussi lourde que belle. Jamais personne n’a osé me dire que là où l’amour fleurit, la haine n'est jamais bien loin. Qu’elle est tapie, silencieuse, prête à bondir à la moindre faille.

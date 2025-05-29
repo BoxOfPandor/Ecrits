@@ -1,3 +1,5 @@
+#ÉcritureEtIdentité
+
 Je n’ai jamais vraiment aimé lire. Et encore moins écrire. La littérature, ce n’était pas mon monde. Trop codifiée, trop exigeante, trop loin de ce que je vivais. J’avais du mal avec les pages remplies, avec les mots trop jolis, trop bien alignés pour être honnêtes. Mais il faut bien commencer quelque part pour apprendre à se dire. Alors j’ai commencé petit, comme on apprend à marcher : à tâtons.
 
 Un jour, j’ai essayé. Un peu de poésie libre, un peu désorganisée, un peu bancale, mais pleine de moi. Juste pour voir. Juste pour mettre des mots sur le silence que j’avais en tête. Je cherchais à assembler les morceaux, à comprendre ce que j’étais. Mes premiers textes, c’était des éclats de souvenirs, des émotions jetées sur une page blanche, des douleurs qu’on n’arrive pas à dire autrement. Et au fil du temps, j’ai compris que l’écriture, ce n’est pas seulement pour ceux qui ont les bons mots — c’est pour ceux qui en ont besoin.

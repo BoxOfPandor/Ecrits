@@ -1,3 +1,5 @@
+#ExistenceEtTemps
+
 On passe sa vie à courir après quelque chose. Un peu d'amour, un peu de reconnaissance, un peu de sens. Et pendant qu'on court, pendant qu'on tombe, pendant qu'on se relève, il y a une chose qui ne change pas : le temps avance, et il efface tout.
 
 Les sourires, les promesses, les noms même des gens qu'on croyait inoubliables. Tout finit par se dissoudre dans une mer de visages, de souvenirs flous, de journées trop semblables pour s'en souvenir vraiment.
